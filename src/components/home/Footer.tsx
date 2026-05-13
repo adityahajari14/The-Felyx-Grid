@@ -54,13 +54,13 @@ export function Footer({ hrefPrefix = "" }: FooterProps = {}) {
           <h2 className="mx-auto mt-8 max-w-[684px] text-[2.7rem] font-bold uppercase leading-[0.96] tracking-[-0.035em] text-cream sm:text-[4rem] lg:text-[86px] lg:leading-[86px] lg:tracking-[-3px]">
             Ready to
             <br />
-            start
+            build
             <br />
-            a project
+            something
           </h2>
 
           <p className="mt-1 font-display text-[31px] lowercase leading-none tracking-[-0.02em] text-brand drop-shadow-[0_0_22px_rgba(195,0,2,0.5)] sm:text-[38px] lg:text-[41px]">
-            with us?
+            unforgettable?
           </p>
 
           <a
@@ -96,8 +96,8 @@ export function Footer({ hrefPrefix = "" }: FooterProps = {}) {
           <div>
             <FooterHeading>Studio</FooterHeading>
             <p className="mx-auto max-w-[14.5rem] text-[13px] leading-[23px] text-cream/55 sm:mx-0">
-              Web design, development, and brand systems for businesses. Based in Nagpur,
-              working with clients remotely.
+              Luxury digital experiences for visionary brands. Crafted in Nagpur, delivered
+              worldwide.
             </p>
           </div>
 
@@ -150,7 +150,7 @@ export function Footer({ hrefPrefix = "" }: FooterProps = {}) {
         <div className="mx-auto mt-9 flex max-w-[1044px] flex-col items-center gap-3.5 border-t border-cream/[0.04] pt-7 text-center font-display text-[10px] uppercase tracking-[1.5px] text-cream/30 sm:flex-row sm:items-center sm:justify-between sm:text-left">
           <p>© 2025 The Felyx Grid · All rights reserved</p>
           <p>
-            Designed and built by <span className="text-brand">The Felyx Grid</span>
+            Crafted with <span className="text-brand">precision</span>
           </p>
         </div>
       </div>

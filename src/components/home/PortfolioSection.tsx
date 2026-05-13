@@ -68,12 +68,12 @@ export function PortfolioSection({ projects }: { projects: PortfolioProject[] })
               Selected work
             </p>
             <h2 className="max-w-[648px] text-[2.15rem] font-bold uppercase leading-[0.98] tracking-[-0.035em] text-cream sm:text-[2.7rem] lg:text-[76px] lg:leading-[76px] lg:tracking-[-2.65px]">
-              Selected
+              Work that
               <br />
               <span className="font-display text-[0.88em] font-normal lowercase leading-none tracking-[-0.02em] text-brand lg:text-[66px] lg:leading-[66px] lg:tracking-[-1.32px]">
-                client
+                speaks
               </span>{" "}
-              projects.
+              for itself.
             </h2>
           </div>
 

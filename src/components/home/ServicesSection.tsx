@@ -11,42 +11,42 @@ const services: ServiceCard[] = [
     number: "01",
     icon: "◇",
     title: "UI / UX Design",
-    description: "Interface design focused on user flows, content structure, and clear actions.",
+    description: "Intuitive interfaces engineered for clarity and conversion.",
     href: "/contact#contact-form",
   },
   {
     number: "02",
     icon: "◈",
     title: "Web Development",
-    description: "Responsive websites and front-end builds using modern web tools.",
+    description: "Performance-tuned platforms built on modern stacks.",
     href: "/contact#contact-form",
   },
   {
     number: "03",
     icon: "◉",
     title: "Brand Identity",
-    description: "Logo, typography, color, and visual guidelines for consistent communication.",
+    description: "Identity systems for the new luxury digital era.",
     href: "/contact#contact-form",
   },
   {
     number: "04",
     icon: "⬡",
     title: "SaaS Products",
-    description: "Product screens, dashboards, and design systems for web applications.",
+    description: "Scalable product architecture and design systems.",
     href: "/contact#contact-form",
   },
   {
     number: "05",
     icon: "✦",
     title: "Creative Direction",
-    description: "Visual direction for websites, campaigns, and product launches.",
+    description: "Strategic vision for ambitious creative teams.",
     href: "/contact#contact-form",
   },
   {
     number: "06",
     icon: "△",
     title: "Motion Design",
-    description: "Subtle interface motion and animations that support usability.",
+    description: "Cinematic motion language that tells stories.",
     href: "/contact#contact-form",
   },
 ];
@@ -109,13 +109,13 @@ export function ServicesSection() {
               <br />
               One{" "}
               <span className="font-display text-[0.72em] font-normal normal-case leading-none tracking-[-0.035em] text-brand lg:text-[56px] lg:leading-[56px] lg:tracking-[-1.95px]">
-                process.
+                Vision.
               </span>
             </h2>
           </div>
 
           <p className="max-w-[18rem] font-display text-[17px] leading-tight text-cream/55 lg:pb-2 lg:text-[20px]">
-            Planning, design, development, and launch support handled in one workflow.
+            From strategy to launch — every layer of your digital presence handled in-house.
           </p>
         </div>
 

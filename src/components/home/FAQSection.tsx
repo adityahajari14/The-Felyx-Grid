@@ -7,32 +7,32 @@ const faqs: FAQItem[] = [
   {
     question: "What industries do you specialize in?",
     answer:
-      "We work with SaaS, real estate, education, healthcare, hospitality, services, and early-stage teams. The best fit is a business that needs a clear website or product interface.",
+      "We work with luxury brands, SaaS startups, real estate, fashion, hospitality, and tech-forward companies. Our focus is brands that demand premium digital presence and are ready to invest in world-class craftsmanship.",
   },
   {
     question: "How long does a project usually take?",
     answer:
-      "Timelines depend on scope. A focused landing page usually takes 2-3 weeks, while a brand system and website may take 6-10 weeks.",
+      "Timelines vary by scope. A focused landing page takes 2-3 weeks, while a full brand system with website spans 6-10 weeks. We prioritize quality over speed, but always move with intention.",
   },
   {
     question: "Do you handle branding and development together?",
     answer:
-      "Yes. We can handle brand identity, website design, and development in one process, or work on a specific part of the project.",
+      "Yes. We offer end-to-end services from brand strategy and identity design through to full-stack development and launch. One team, one vision, seamless execution.",
   },
   {
     question: "What platforms do you build on?",
     answer:
-      "We primarily build with React, Next.js, Tailwind CSS, and headless CMS tools such as Sanity when needed.",
+      "We work with React, Next.js, and modern JAMstack architectures. For CMS needs, we integrate with Sanity, Contentful, or custom solutions tailored to your team.",
   },
   {
     question: "Do you provide post-launch support?",
     answer:
-      "Yes. Post-launch support can include maintenance, content updates, performance checks, and iterative improvements.",
+      "Absolutely. We offer ongoing retainer packages for maintenance, optimization, and iterative improvements as your brand evolves and scales.",
   },
   {
     question: "How does pricing work?",
     answer:
-      "Every project starts with scope definition. We provide a fixed proposal after understanding the pages, features, timeline, and content needs.",
+      "Every project starts with a discovery phase to define scope. We provide transparent, fixed-price proposals. Investment varies by complexity, so reach out for a tailored estimate.",
   },
 ];
 
