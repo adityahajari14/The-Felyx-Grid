@@ -19,7 +19,7 @@ function ManifestoPill() {
       <span className="relative z-[1] flex h-full items-center justify-center gap-3">
         <span className="size-2 shrink-0 rounded-full bg-brand shadow-[0_0_13px_rgba(195,0,2,0.8)]" />
         <span className="whitespace-nowrap font-display text-[10px] uppercase leading-none tracking-[2.2px] text-cream/75">
-          Felyx Manifesto
+          The Felyx Grid
         </span>
       </span>
     </div>

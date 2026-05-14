@@ -48,7 +48,7 @@ export function Footer({ hrefPrefix = "" }: FooterProps = {}) {
         <div className="mx-auto text-center">
           <div className="mx-auto flex h-[29px] w-[234px] items-center justify-center rounded-full border border-cream/[0.08] bg-cream/[0.04] px-3.5 font-display text-[10px] uppercase leading-none tracking-[1.8px] text-cream/55 shadow-[0_3px_14px_rgba(0,0,0,0.3),inset_0_1px_0_rgba(255,255,255,0.08)]">
             <span className="mr-3 size-1.5 shrink-0 rounded-full bg-[#22ff7a] opacity-70 shadow-[0_0_11px_#22ff7a]" />
-            <span className="whitespace-nowrap">Now booking · Q3 2026</span>
+            <span className="whitespace-nowrap">Now booking</span>
           </div>
 
           <h2 className="mx-auto mt-8 max-w-[684px] text-[2.7rem] font-bold uppercase leading-[0.96] tracking-[-0.035em] text-cream sm:text-[4rem] lg:text-[86px] lg:leading-[86px] lg:tracking-[-3px]">

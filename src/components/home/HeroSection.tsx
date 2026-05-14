@@ -30,7 +30,7 @@ export function HeroSection() {
       <div className="relative z-[2] mx-auto flex w-full max-w-[58rem] flex-col items-center justify-center text-center">
         <div className="inline-flex items-center gap-2 rounded-full border border-cream/10 bg-cream/[0.04] px-3.5 py-2 font-display text-[0.5rem] uppercase leading-none tracking-[0.22em] text-cream/55 shadow-lg max-[640px]:px-3.5 max-[640px]:py-2 max-[640px]:text-[0.48rem] max-[640px]:tracking-[0.19em]">
           <span className="size-1.5 rounded-full bg-[#22ff7a] opacity-60 shadow-[0_0_11px_#22ff7a]" />
-          <span>Available · Q3 2026</span>
+          <span>Available</span>
         </div>
 
         <p className="mt-7 font-display text-[1.7rem] lowercase leading-none tracking-wide text-brand drop-shadow-[0_0_27px_rgba(195,0,2,0.4)] max-[640px]:mt-6 max-[640px]:text-[1.58rem] sm:text-[2.25rem] lg:text-[2.8rem]">
