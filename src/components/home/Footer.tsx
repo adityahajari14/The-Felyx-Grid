@@ -2,7 +2,7 @@ import Image from "next/image";
 
 import { navItems, socialProfiles } from "./data";
 
-const email = "hello@thefelyxgrid.com";
+const email = "contact@thefelyxgrid.com";
 
 type FooterProps = {
   hrefPrefix?: string;

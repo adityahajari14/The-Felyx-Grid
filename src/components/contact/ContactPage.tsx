@@ -359,7 +359,7 @@ function QuickCallCard() {
           </p>
           <a
             className="mt-8 inline-flex h-16 w-full max-w-[334px] items-center justify-center gap-3 rounded-full bg-white px-5 font-display text-base tracking-[2px] text-background transition hover:-translate-y-0.5 hover:bg-cream"
-            href="mailto:hello@thefelyxgrid.com?subject=Free%20consultation%20request"
+            href="mailto:contact@thefelyxgrid.com?subject=Free%20consultation%20request"
           >
             <IconImage src={iconCalendar} className="size-5" />
             Book Free Consultation
@@ -445,10 +445,10 @@ function ContactSidebar() {
         <h3 className="text-xl font-bold leading-7 text-cream">Contact Information</h3>
         <div className="mt-6 grid gap-6">
           <InfoRow
-            href="mailto:hello@thefelyxgrid.com"
+            href="mailto:contact@thefelyxgrid.com"
             icon={iconMail}
             label="Email us"
-            value="hello@thefelyxgrid.com"
+            value="contact@thefelyxgrid.com"
           />
           <InfoRow icon={iconClock} label="Availability" value="Now booking Q3 2026" />
         </div>
