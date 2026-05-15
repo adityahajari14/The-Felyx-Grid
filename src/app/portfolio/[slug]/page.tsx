@@ -11,6 +11,8 @@ type ProjectPageProps = {
   }>;
 };
 
+export const revalidate = 60;
+
 export async function generateStaticParams() {
   const projects = await getPortfolioProjects();
 

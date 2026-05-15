@@ -10,6 +10,8 @@ export const metadata: Metadata = {
     "Explore websites, platforms, marketplaces, and product interfaces by The Felyx Grid.",
 };
 
+export const revalidate = 60;
+
 export default async function Portfolio() {
   const projects = await getPortfolioProjects();
 

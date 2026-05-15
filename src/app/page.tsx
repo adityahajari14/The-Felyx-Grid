@@ -12,6 +12,8 @@ import {
 } from "../components/home";
 import { getFeaturedPortfolioProjects } from "../lib/portfolio";
 
+export const revalidate = 60;
+
 export default async function Home() {
   const featuredProjects = await getFeaturedPortfolioProjects(3);
 
